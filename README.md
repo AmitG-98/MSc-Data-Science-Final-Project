@@ -32,7 +32,6 @@ The dashboard uses **predictive analytics** with models such as ARIMA, XARIMA, a
 ## Project Files
 
 - **`Final_Structured_Code.ipynb`**: The main Jupyter Notebook containing the code for data preprocessing, modeling, and visualization.
-- **`Report.docx`**: A detailed report documenting the project methodology, results, and conclusions.
 - **Data Folder**: Contains the cleaned datasets used for analysis (referenced in the code).
 
 ---
@@ -71,6 +70,7 @@ The dashboard uses **predictive analytics** with models such as ARIMA, XARIMA, a
 
 The project demonstrated that:
 - **ARIMA** is the most reliable model for short-term and seasonal forecasting.
+- **XARIMA** is more realastic
 - GDP trends in developed countries are more stable, while developing countries experience higher volatility.
 - Future enhancements could include hybrid models, more economic indicators, and sector-specific dashboards.
 
@@ -92,13 +92,6 @@ Gurav, A. S. (2024). Global Macroeconomic Dashboard with Predictive Analytics. M
 ```
 
 ---
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
 ## Acknowledgments
 
 Special thanks to:
