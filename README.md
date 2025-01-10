@@ -12,7 +12,7 @@ The **Global Macroeconomic Dashboard** is an interactive platform designed to mo
 - Unemployment
 - Real Interest Rates
 
-The dashboard uses **predictive analytics** with models such as ARIMA, XARIMA, and LSTM, providing short- and medium-term economic forecasts based on historical and real-time data.
+The dashboard uses **predictive analytics** with models such as ARIMA, XARIMA providing short- and medium-term economic forecasts based on historical and real-time data.
 
 ### Key Features
 - **Predictive Modeling**: Forecasts economic trends for the next five years using time-series analysis.
